@@ -65,7 +65,7 @@ A dedicated EDA notebook was created to visualize these trends using histograms,
 - Room type and neighborhood strongly influence price
 - Certain amenities and review scores correlate with higher prices
 
-Notebook: [`notebooks/01_price_eda.ipynb`](notebooks/01_price_eda.ipynb)
+Notebook: [`notebooks/AirBnB_price_EDA (2).ipynb`](notebooks/01_price_eda.ipynb)
 
 ## 5. Modeling and Model Evaluation
 
