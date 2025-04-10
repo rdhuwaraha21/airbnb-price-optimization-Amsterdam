@@ -28,7 +28,7 @@ This project provides tangible value to Airbnb hosts and platform analysts:
 
 - Increased pricing accuracy for over 94% of listings under $600, leading to more competitive and optimized rates.
 - Reduced prediction error by segmenting listings based on price thresholds, improving targeting for different market tiers.
-- Identified key drivers of pricing, such as room type, location, and host status, enabling data-backed strategy.
+- Identified key drivers of pricing, such as room type, location, and host status, enabling data backed strategy.
 - Created a Power BI dashboard that simplifies complex predictions into actionable business insights for decision-makers.
 
 This end-to-end pipeline—from data cleaning and modeling to visual storytelling—reflects how data science supports real business decisions.
