@@ -8,9 +8,6 @@ This project simulates the responsibilities of a **Data Analyst / ML Engineer**:
 -  Reduce prediction error using **segment-based modeling**
 -  Create a **Power BI dashboard** to present business insights to non-technical stakeholders
 
- **Why this matters to hiring managers**:  
-This is a full-cycle, production-ready ML project with **clear business objectives**, strong **data storytelling**, and stakeholder-oriented design — built to **mirror enterprise-level decision-making.**
-
 ## 1. Business Objective
 
 Amsterdam is one of Europe’s busiest Airbnb markets. However, many hosts lose revenue due to **suboptimal pricing strategies** that fail to reflect listing quality, demand, or competition.
