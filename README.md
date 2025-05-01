@@ -126,7 +126,7 @@ This pipeline reflects how data science translates into **real business value**.
 - Map of average prediction error
 
 📁 Power BI File: `outputs/AirBnB.pbix`  
-🖼️ Screenshots: `images/Power BI Viz/`
+🖼️ Screenshots: `images/Power BI Viz`
 
 ---
 
